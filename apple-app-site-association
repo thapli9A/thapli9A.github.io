@@ -4,7 +4,7 @@
     "details": [
       {
          "appID": "2GVJ6JS822.com.fueled.cronofyPOC",
-         "paths": []
+         "paths": ["/*", "/callback/*"]
       }
     ]
   }
