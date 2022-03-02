@@ -1,12 +1,16 @@
 {
   "webcredentials": {
-		"apps": ["2GVJ6JS822.com.fueled.cronofyPOC"]
+		"apps": ["2GVJ6JS822.com.fueled.cronofyPOC", 2GVJ6JS822.com.fueled.Katapult]
 	},
   "applinks": {
     "apps": [],
     "details": [
       {
          "appID": "2GVJ6JS822.com.fueled.cronofyPOC",
+         "paths": ["/*", "/callback/*"]
+      },
+      {
+         "appID": "2GVJ6JS822.com.fueled.Katapult",
          "paths": ["/*", "/callback/*"]
       }
     ]
